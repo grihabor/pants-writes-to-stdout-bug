@@ -1,0 +1,7 @@
+[GLOBAL]
+pants_version = "2.18.1"
+
+backend_packages = [
+  "pants.backend.shell",
+]
+
